@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>AIML STUDENT</h1>
+    <h1>AIML-33 STUDENT FORM</h1>
     <p>Please fill in this form for registration!!!</p>
     <hr>
     <br>  
